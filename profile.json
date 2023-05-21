@@ -1,0 +1,56 @@
+[
+  {
+    "name": "thread_name",
+    "ph": "M",
+    "pid": 72478,
+    "tid": 0,
+    "ts": 0,
+    "args": {
+      "name": "Group #1"
+    }
+  },
+  {
+    "name": "shared-ui:build:production",
+    "cat": "shared-ui,build,production",
+    "ph": "X",
+    "ts": 724272.6010009646,
+    "dur": 105848.60799834132,
+    "pid": 72478,
+    "tid": 0,
+    "args": {
+      "target": {
+        "project": "shared-ui",
+        "target": "build",
+        "configuration": "production"
+      },
+      "status": "local-cache"
+    }
+  },
+  {
+    "name": "thread_name",
+    "ph": "M",
+    "pid": 72478,
+    "tid": 1,
+    "ts": 0,
+    "args": {
+      "name": "Group #2"
+    }
+  },
+  {
+    "name": "store:build:production",
+    "cat": "store,build,production",
+    "ph": "X",
+    "ts": 831541.3030013442,
+    "dur": 4897559.6939995885,
+    "pid": 72478,
+    "tid": 1,
+    "args": {
+      "target": {
+        "project": "store",
+        "target": "build",
+        "configuration": "production"
+      },
+      "status": "success"
+    }
+  }
+]
