@@ -30,6 +30,11 @@
       "files": ["*.html"],
       "extends": ["plugin:@nx/angular-template"],
       "rules": {}
+    },
+    {
+      "files": "*.json",
+      "parser": "jsonc-eslint-parser",
+      "rules": {}
     }
   ],
   "extends": ["./.eslintrc.base.json"]

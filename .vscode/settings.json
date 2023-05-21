@@ -1,12 +1,13 @@
 {
-    "nxConsole.commonNxCommands": [
-        "run-many",
-        "affected",
-        "affected:graph",
-        "list",
-        "migrate",
-        "add-dependency",
-        "add-dev-dependency",
-        "lint:prettiert"
-    ]
+  "nxConsole.commonNxCommands": [
+    "run-many",
+    "affected",
+    "affected:graph",
+    "list",
+    "migrate",
+    "add-dependency",
+    "add-dev-dependency",
+    "lint:prettiert"
+  ],
+  "eslint.validate": ["json"]
 }

@@ -17,6 +17,7 @@
     "paths": {
       "@shop": ["src/app/shop/"],
       "@store/cart": ["cart/src/index.ts"],
+      "@store/my-plugin": ["my-plugin/src/index.ts"],
       "@store/shared/ui": ["shared/ui/src/index.ts"]
     }
   },
