@@ -1,0 +1,7 @@
+/home/jgr/chatter/store/backend/obj/Debug/net7.0/backend.csproj.AssemblyReference.cache
+/home/jgr/chatter/store/backend/obj/Debug/net7.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+/home/jgr/chatter/store/backend/obj/Debug/net7.0/backend.AssemblyInfoInputs.cache
+/home/jgr/chatter/store/backend/obj/Debug/net7.0/backend.AssemblyInfo.cs
+/home/jgr/chatter/store/backend/obj/Debug/net7.0/backend.csproj.CoreCompileInputs.cache
+/home/jgr/chatter/store/backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cs
+/home/jgr/chatter/store/backend/obj/Debug/net7.0/backend.MvcApplicationPartsAssemblyInfo.cache
