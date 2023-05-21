@@ -44,7 +44,7 @@
   "prettier.prettierPath": "./node_modules/prettier",
   "prettier.printWidth": 120,
   "prettier.resolveGlobalModules": true,
-  "eslint.onIgnoredFiles": "warn",
+  "eslint.onIgnoredFiles": "off",
   "eslint.problems.shortenToSingleLine": true,
   "eslint.quiet": true,
   "vsintellicode.features.python.deepLearning": "enabled",
