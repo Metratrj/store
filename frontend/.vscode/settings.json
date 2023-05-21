@@ -43,5 +43,14 @@
   "prettier.enableDebugLogs": true,
   "prettier.prettierPath": "./node_modules/prettier",
   "prettier.printWidth": 120,
-  "prettier.resolveGlobalModules": true
+  "prettier.resolveGlobalModules": true,
+  "eslint.onIgnoredFiles": "warn",
+  "eslint.problems.shortenToSingleLine": true,
+  "eslint.quiet": true,
+  "vsintellicode.features.python.deepLearning": "enabled",
+  "html-css-class-completion.CSSLanguages": [
+    "css",
+    "sass",
+    "scss"
+  ]
 }
