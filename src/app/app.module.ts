@@ -8,13 +8,13 @@ import { ShopComponent } from './shop/shop.component';
 import { SharedUiModule } from '@store/shared/ui';
 
 @NgModule({
-    declarations: [AppComponent, NxWelcomeComponent, ShopComponent],
-    providers: [],
-    bootstrap: [AppComponent],
-    imports: [
-        BrowserModule,
-        RouterModule.forRoot(appRoutes, { initialNavigation: 'enabledBlocking' }),
-        SharedUiModule
-    ]
+  declarations: [AppComponent, NxWelcomeComponent, ShopComponent],
+  providers: [],
+  bootstrap: [AppComponent],
+  imports: [
+    BrowserModule,
+    RouterModule.forRoot(appRoutes, { initialNavigation: 'enabledBlocking' }),
+    SharedUiModule,
+  ],
 })
 export class AppModule {}

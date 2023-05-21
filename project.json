@@ -20,9 +20,7 @@
     },
     "build:webpack": {
       "executor": "@nx/angular:webpack-browser",
-      "outputs": [
-        "{options.outputPath}"
-      ],
+      "outputs": ["{options.outputPath}"],
       "options": {
         "buildLibsFromSource": false,
         "outputPath": "dist/store",
