@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DAZIRgelJVIm22KcqTNBkkMk0d4zYLooLm10qiHmL7Bb3xTCuIk14X3xoGkIu02Mw3T5QGwO4jma21VtHXFFHw==",
+  "dgSpecHash": "lHXFgvxyGvV4l6si9wJFSWkZg1znm/AI3xEUeBciJKVNl60Vqfa3ucU8SIMNMQiHfAhC4lm3fT/97LmiAkcfrg==",
   "success": true,
   "projectFilePath": "/home/jgr/chatter/store/backend/backend.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,8 @@
     "/home/jgr/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "/home/jgr/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "/home/jgr/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "/home/jgr/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "/home/jgr/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/home/jgr/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.16/microsoft.netcore.app.host.linux-x64.6.0.16.nupkg.sha512"
   ],
   "logs": []
 }
