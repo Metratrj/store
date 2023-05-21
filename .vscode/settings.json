@@ -9,5 +9,39 @@
     "add-dev-dependency",
     "lint:prettiert"
   ],
-  "eslint.validate": ["json"]
+  "eslint.validate": ["json"],
+  "files.autoSave": "onFocusChange",
+  "editor.fontFamily": "JetBrains NF Mono",
+  "editor.tabSize": 4,
+  "editor.wordWrap": "wordWrapColumn",
+  "debug.autoExpandLazyVariables": true,
+  "search.showLineNumbers": true,
+  "search.seedWithNearestWord": true,
+  "explorer.fileNesting.enabled": true,
+  "scm.alwaysShowActions": true,
+  "scm.defaultViewMode": "tree",
+  "terminal.explorerKind": "both",
+  "terminal.integrated.allowMnemonics": true,
+  "eslint.codeActionsOnSave.enabled": true,
+  "eslint.codeActionsOnSave.ignore": ["node_modules", "package-lock.json"],
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "editor.formatOnSave": false
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "editor.formatOnSave": false
+  },
+  "debug.javascript.autoAttachFilter": "smart",
+  "prettier.configPath": "./.prettierrc",
+  "prettier.enableDebugLogs": true,
+  "prettier.prettierPath": "./node_modules/prettier",
+  "prettier.printWidth": 120,
+  "prettier.resolveGlobalModules": true
 }
